@@ -26,3 +26,7 @@ This is a simple web-based code editor implemented using HTML, CSS, and JavaScri
 
 - You can modify the `index.html` file to update the structure and layout of the code editor interface.
 - The CSS styles are defined in the `style.css` file. Feel free to customize the styles according to your preferences.
+
+# Screenshots
+<img width="960" alt="Screenshot 2023-07-07 162427" src="https://github.com/chhitizzz/online-code-editor/assets/137091888/abc8c148-7654-4d0b-954a-2fb6fc071efe">
+<img width="960" alt="Screenshot 2023-07-07 162736" src="https://github.com/chhitizzz/online-code-editor/assets/137091888/8d92c509-3bed-47f1-a6e7-c1ae64c5f030">
