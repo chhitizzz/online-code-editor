@@ -20,7 +20,7 @@ This is a simple web-based code editor implemented using HTML, CSS, and JavaScri
 2. Open the `index.html` file in your web browser.
 3. The online code editor will appear on the screen.
 4. Write or paste your code in the editor.
-5. The output of the code will be displayed at the right of the editor.
+5. The output of the code will be displayed at the right side of the editor.
 
 ## Customization
 
